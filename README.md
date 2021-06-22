@@ -1,2 +1,5 @@
 # Movie-Search-App
-A Movie Search application built with springboot using youtube api
+A movie search application built with springboot for searching movies of your choice
+
+
+
